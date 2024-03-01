@@ -11,6 +11,7 @@ Key Features:
     Notification system for deal updates
 
 Tech Stack:
+
     **Backend Language**: Kotlin 
     **Framework**: Spring Boot
     **Database**: MongoDB 
